@@ -22,7 +22,7 @@ Feature: Checking Company website is working fine.
     When I opened the "https://hl.com" page.
     Then I waited for 3 seconds.
     Then I hide cookies disclaimer.
-    Then I waited for 2 seconds.
+    Then I waited for 3 seconds.
     And I quit the browser. 
     
   Scenario: Checking Another pages are accessible.
